@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+
+ body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(/subway.jpg);
+    /* width: ; */
+    height: 100vvh;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    text-align: center;
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+ h1{
+    font-size: 50px;
+    text-align: center;
+    margin:0 aut0;
+    justify-content: center;
+    margin-top: 5em;
+ }
+
+ h2 {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight: bold;
+    width:250px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn{
+   background-color: burlywood;
+   padding: 15px;
+   font-size: x-large;
+}
+
+#save-btn {
+    background: darkgreen;
+    padding:15px;
+    font-size:x-large;
+}
+
+p{
+    font-size: large;
+    color:black;
+    font-size: 2.5em;
+    text-decoration: bold;
+    font-size: 60px;
+
+}
+    
